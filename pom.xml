@@ -6,7 +6,7 @@
     <groupId>com.sumay</groupId>
     <artifactId>simple-java-code</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>Simple Java Project</name>
 
